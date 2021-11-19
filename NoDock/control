@@ -1,0 +1,11 @@
+Package: me.oli.nodock
+Name: NoDock
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A simple tweak to hide the dock background!
+Depiction: https://oliv9r.github.io/depictions/?p=me.oli.nodock
+Maintainer: oli
+Author: oli
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+
